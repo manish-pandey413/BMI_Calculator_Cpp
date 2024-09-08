@@ -1,0 +1,4 @@
+#+title: A minimal body mass index (BMI) calculator made in C++ language, usnig ImGui library.
+
+* Requirement
+ [[ImGui][https://github.com/ocornut/imgui]]
