@@ -1,0 +1,27 @@
+# ninja log v6
+4770	21696	1726313370482156589	CMakeFiles/BMI.dir/lib/imgui/imgui_widgets.cpp.o	b9eb3c95bdc81127
+95	18574	1726313365808746298	CMakeFiles/BMI.dir/lib/imgui/imgui_draw.cpp.o	e681c5f26e108542
+2063	13391	1726313367775445349	CMakeFiles/BMI.dir/lib/imgui/imgui_tables.cpp.o	7bff71e248dbf8cd
+1332	2062	1726313367045433328	CMakeFiles/BMI.dir/lib/imgui/imgui_impl_opengl3.cpp.o	df099ad5ff8cc1e9
+121	10569	1726311832940038268	CMakeFiles/BMI.dir/src/imgui_demo.cpp.o	aa6907f5fff2bce3
+10569	21722	1726311843390133620	CMakeFiles/BMI.dir/src/imgui_tables.cpp.o	2b064b8c89973632
+99	1331	1726313365812079687	CMakeFiles/BMI.dir/lib/imgui/imgui_impl_glfw.cpp.o	858850654bc80160
+94	4770	1726313365805412910	CMakeFiles/BMI.dir/src/main.cpp.o	4c0ef299e299bdf0
+5170	23075	1726311837990084141	CMakeFiles/BMI.dir/src/imgui_draw.cpp.o	2a784ddee93b7344
+23076	24171	1726311855896916545	CMakeFiles/BMI.dir/src/backends/imgui_impl_glfw.cpp.o	a249f34806e9f505
+119	31910	1726311832940038268	CMakeFiles/BMI.dir/src/imgui.cpp.o	1d01aaa35179252e
+21722	36735	1726311854543570522	CMakeFiles/BMI.dir/src/imgui_widgets.cpp.o	f6d8fcf9fad35841
+24172	25083	1726311856993593516	CMakeFiles/BMI.dir/src/backends/imgui_impl_opengl3.cpp.o	6d1e9141bf9fc133
+4	23331	1726313307044446774	CMakeFiles/BMI.dir/lib/imgui/imgui.cpp.o	73aa973d9b440e1
+21696	22636	1726313387409102126	BMI	c7161456d8334f6e
+6	9503	1726313307047780162	CMakeFiles/BMI.dir/lib/imgui/imgui_demo.cpp.o	27a479d3130a7375
+3	726	1726313519561723457	build.ninja	5a8f0c3dddea532f
+2	2964	1726313519578390631	CMakeFiles/IM_BMI.dir/src/main.cpp.o	3735c010b97bc979
+3	10916	1726313519578390631	CMakeFiles/IM_BMI.dir/lib/imgui/imgui_demo.cpp.o	e1d3f6523fc690fe
+10916	12278	1726313530492055016	CMakeFiles/IM_BMI.dir/lib/imgui/imgui_impl_glfw.cpp.o	764f790ac73f1dec
+12279	13179	1726313531855429524	CMakeFiles/IM_BMI.dir/lib/imgui/imgui_impl_opengl3.cpp.o	57e5b80bc9137bf6
+2964	22051	1726313522541814114	CMakeFiles/IM_BMI.dir/lib/imgui/imgui_draw.cpp.o	f527ad4d51c23c92
+13179	24234	1726313532755456682	CMakeFiles/IM_BMI.dir/lib/imgui/imgui_tables.cpp.o	69d3d0f7cdf06993
+3	30229	1726313519578390631	CMakeFiles/IM_BMI.dir/lib/imgui/imgui.cpp.o	661f737e6f7194d3
+22052	36646	1726313541629056844	CMakeFiles/IM_BMI.dir/lib/imgui/imgui_widgets.cpp.o	8aeee5423d7aa467
+36646	37056	1726313556222825389	IM_BMI	660206e60f8a7bbb

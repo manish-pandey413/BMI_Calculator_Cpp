@@ -1,0 +1,3 @@
+/home/acer/Stuff/Cpp/test/bin/CMakeFiles/IM_BMI.dir
+/home/acer/Stuff/Cpp/test/bin/CMakeFiles/edit_cache.dir
+/home/acer/Stuff/Cpp/test/bin/CMakeFiles/rebuild_cache.dir
